@@ -11,7 +11,7 @@ setuptools.setup(
     description="Building map with 50 Twitter followers",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/sasha-tsepilova/follower_map",
+    url="https://github.com/sasha-tsepilova/followers_map",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
