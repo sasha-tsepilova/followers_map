@@ -1,0 +1,10 @@
+{% extends "layout.html" %}
+
+{% block body %}
+<h1>Find where are your folowers</h1>
+<form action="/map" method="post">
+    <input name="screen_name" placeholder="Screen name" type="text">
+    <input name="bearer_token" placeholder="Your bearer token" type="text">
+    <input type="submit" value="Create">
+</form>
+{% endblock %}
