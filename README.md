@@ -8,7 +8,7 @@ So, when user runs the program, he or she gets the local server ip, then (after 
 ![ScreenShot](screenshot1.jpg)
 ![ScreenShot](screenshot2.jpg)
 
-This example will give next map (located in Film_map.html):
+This example will give next map:
 ![ScreenShot](screenshot3.jpg)
 
 Note, that for using this app you should have Twitter bearer token.
